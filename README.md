@@ -1,5 +1,15 @@
-#SPOTIFY APP
+# SPOTIFY APP
 This website is a spotify app.
 
-##FEATURES
-*
+## FEATURES
+* It consist of user authentication
+* Data is fetched through spotify api.
+
+
+## TECHNOLOGIES
+* REACTJS
+* Material UI
+* Spotify Api
+* Context Api
+* CSS
+* Host on Netlify
