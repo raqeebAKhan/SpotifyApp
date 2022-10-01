@@ -17,6 +17,6 @@ This website is a spotify app.
 ## Website Link
 https://rak-spotify-app.netlify.app/
 
-##Screenshots of Website
+## Screenshots of Website
 
 
