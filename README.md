@@ -13,3 +13,10 @@ This website is a spotify app.
 * Context Api
 * CSS
 * Host on Netlify
+
+## Website Link
+https://rak-spotify-app.netlify.app/
+
+##Screenshots of Website
+
+
