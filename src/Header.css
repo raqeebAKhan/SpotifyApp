@@ -1,0 +1,44 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+  }
+  
+  .header__right {
+    display: grid;
+    align-items: center;
+  }
+  
+  .header__left {
+    flex: 0.5;
+    display: flex;
+    background-color: white;
+    padding: 10px;
+    border-radius: 30px;
+    color: gray;
+    align-items: center;
+  }
+  
+  .header__left  input {
+    border: none;
+    width: 100%;
+  }
+  
+  .header__right  button{
+    margin-left: 0px;
+    color: white;
+    display: flex;
+    color: black;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+
+  .header__right button:active{
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+    background-color: rgb(161, 104, 30);
+  }
+
+.header__right a{
+  text-decoration: none;
+}
