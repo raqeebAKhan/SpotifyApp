@@ -19,4 +19,12 @@ https://rak-spotify-app.netlify.app/
 
 ## Screenshots of Website
 
+<img src=images/Agree_page.png height="500px"/>
+<br/><br/>
+
+<img src=images/Login_Page.png height="500px"/>
+<br/><br/>
+
+<img src=images/Spotify_Page.png height="500px"/>
+<br/><br/>
 
