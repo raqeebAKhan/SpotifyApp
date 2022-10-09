@@ -25,6 +25,6 @@ https://rak-spotify-app.netlify.app/
 <img src=images/Login_Page.png height="500px"/>
 <br/><br/>
 
-<img src=images/Spotify_Page.png height="500px"/>
+<img src=images/Spotify_page.png height="500px"/>
 <br/><br/>
 
